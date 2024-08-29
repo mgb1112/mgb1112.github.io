@@ -1,0 +1,27 @@
+---
+title: "Grace Brooks"
+image: "grace.brooks.jpg"
+links:
+  - label: LinkedIn Profile
+    url: "https://www.linkedin.com/in/mary-brooks-591426231/"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+My name is Grace Brooks. I was born and raised in Baltimore, Maryland. I went to undergrad at Arcadia University outside of Philadelphia, where I obtained my BA in both Biology and Mathematics. I am currently an ScM Candidate in Biostatistics at the Bloomberg School of Public Health at Johns Hopkins. I have completed coding/computing classes in java as well as SAS, and done some individual work in R. I'm hoping to learn more about R as well as have a better understanding of packages that will help me with Biostatistics! I hope to use these skills in industry work related to clinical trials. 
+
+## Fun Facts
+
+1. I have three brothers.
+2. I have a very spoiled ~3 year old husky named Taz!
+3. I was a competitive swimmer for almost 20 years and competed all four years of my undergraduate program.
+4. I enjoy baking in my free time, with my favorite things to bake being cookie recipes. 
+5. I am a big music fan, and am listening to it at almost all times. 
+
+## WebPage Link
+
+[SwimSwam](https://swimswam.com/) 
+
+Attached is the link to swimswam which is a website that covers pretty much all things competitive swimming related. This is one of my favorite sites to keep up with competitive swimming news and results throughout the year. It has been especially helpful this past month with keeping up with results and stories from the Olympics!
